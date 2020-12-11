@@ -18,8 +18,8 @@ California restaurants
 
 ## Tools
 
-Python
-SQLAlchemy
-PostgreSQL
-Pandas
-Matplotlib
+- Python
+- SQLAlchemy
+- PostgreSQL
+- Pandas
+- Matplotlib
