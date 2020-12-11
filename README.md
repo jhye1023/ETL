@@ -1,9 +1,9 @@
-# U.S. State Populations Vs. Total Fast Food Restaurants
+ETL Project
 
 ## About the Project
 ETL Process:
 
-* Data Extraction: Data in the ‘Fast_Food_Restaurants.csv’ and State Populations.csv file were extracted from Kaggle.com.
+* Data Extraction: Data in the ‘Fast_Food_Restaurants.csv’ and 'State Populations.csv' files were extracted from Kaggle.com.
 * Data Transformation: Data was cleaned by removing unwanted columns/rows, formatting data, merging dataframes through Pandas, and adjusting columns/indices according to our PostgreSQL database.
 * Data Loading: Transformed dataframes were loaded into our PostgreSQL database into their appropriate tables.
 
